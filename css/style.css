@@ -1,7 +1,7 @@
 div {
     width: 100px;
     height: 100px;
-    border: 2px solid red;
+    border: 2px solid brown;
     border-radius: 50%;
-    background-color: green;
+    background-color: blue;
 }
